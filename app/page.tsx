@@ -64,7 +64,7 @@ export default function HomePage() {
               <div className="eyebrow mb-4">Education</div>
               <h3 className="mb-2 text-xl font-bold text-offwhite">Premium Tools</h3>
               <p className="mb-5 text-[13.5px] leading-relaxed text-muted">
-                The TRAXXIO Ebook, VERDICT's AI discipline engine, and more — built for traders who want a real edge.
+                The TRAXXIO Ebook, VERDICT&apos;s AI discipline engine, and more — built for traders who want a real edge.
               </p>
               <LinkButton href="/products" variant="ghost" className="px-0">
                 View Products →
@@ -75,7 +75,7 @@ export default function HomePage() {
               <div className="eyebrow mb-4">Mentorship</div>
               <h3 className="mb-2 text-xl font-bold text-offwhite">Live Sessions</h3>
               <p className="mb-5 text-[13.5px] leading-relaxed text-muted">
-                Weekly live trading sessions, 1-on-1 calls, and trade reviews from people who've done the work.
+                Weekly live trading sessions, 1-on-1 calls, and trade reviews from people who&apos;ve done the work.
               </p>
               <LinkButton href="/events" variant="ghost" className="px-0">
                 See Events →
