@@ -34,7 +34,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${grotesk.variable} ${mono.variable}`}>
-      <body className="bg-grid bg-grid-cell font-sans text-offwhite antialiased">
+      <body className="font-sans text-offwhite antialiased">
         <Nav />
         <main className="pt-[60px]">{children}</main>
         <Footer />
