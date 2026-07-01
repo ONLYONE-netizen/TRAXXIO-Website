@@ -14,7 +14,7 @@ export default function ProductsPage() {
         <SectionLabel>Products</SectionLabel>
         <h1 className="mb-3 text-[clamp(32px,5vw,52px)] font-bold leading-tight text-offwhite">Premium Trading Tools</h1>
         <p className="mb-12 max-w-[480px] text-[15px] text-muted">
-          Built for serious traders who want a real edge. Signals, mentorship, and AI-powered discipline tools.
+          Built for serious traders who want a real edge.
         </p>
 
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
