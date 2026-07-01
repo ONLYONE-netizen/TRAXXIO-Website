@@ -132,11 +132,14 @@ export const products: ProductItem[] = [
     name: 'VERDICT',
     price: 'Pricing — TBA',
     unknownPrice: true,
-    desc: 'AI-powered trader discipline intelligence system. VERDICT judges your behavior, not your profit. Built for traders who want to master consistency.',
+    desc: 'AI-powered trader psychology and discipline tool. VERDICT judges your behavior, not your profit — combining a guided trading journal, an AI Talk Bot coach, and screenshot analysis to surface the emotional patterns behind every trade.',
     features: [
-      'AI discipline scoring per trade',
-      'Emotional pattern detection',
-      'Revenge trading alerts',
+      'AI discipline scoring per trade (0–100)',
+      'Guided trade journaling',
+      'AI Talk Bot psychology coach',
+      'Screenshot analysis (GPT-4o Vision)',
+      'Revenge trading & overtrading detection',
+      'Emotion heatmaps & pattern detection',
       'Weekly discipline reports',
       'Shareable verdict cards',
     ],
@@ -161,7 +164,7 @@ export const faqs = [
   },
   {
     q: 'What is VERDICT?',
-    a: 'VERDICT is an AI-powered discipline intelligence system in development. It scores your trading behavior — not your P&L — to help you catch emotional and revenge-trading patterns before they cost you.',
+    a: 'VERDICT is an AI-powered trader psychology and discipline tool. It pairs a guided trading journal and AI Talk Bot coach with behavior scoring — not P&L — to help you catch emotional and revenge-trading patterns before they cost you.',
   },
   {
     q: 'How do I join the community?',
