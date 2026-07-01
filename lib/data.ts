@@ -104,7 +104,7 @@ export const products: ProductItem[] = [
       'Think in probabilities, not certainty',
       'Risk management frameworks',
     ],
-    cta: { label: 'Get the Ebook', href: 'https://traxxionet.netlify.app/product1' },
+    cta: { label: 'Get the Ebook', href: 'https://wa.me/2348080780042?text=Hi%2C%20I%27d%20like%20to%20buy%20the%20TRAXXIO%20Ebook%20(%2410)' },
   },
   {
     slug: 'mentorship',
