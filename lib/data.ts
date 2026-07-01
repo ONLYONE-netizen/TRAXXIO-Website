@@ -17,6 +17,7 @@ export const navLinks = [
   { href: '/faq', label: 'FAQ' },
   { href: '/weekly-report', label: 'Weekly Report' },
   { href: '/contact', label: 'Contact' },
+];
 
 export const weeklyReports = [
   {
