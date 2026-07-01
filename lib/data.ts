@@ -15,7 +15,21 @@ export const navLinks = [
   { href: '/events', label: 'Events' },
   { href: '/products', label: 'Products' },
   { href: '/faq', label: 'FAQ' },
+  { href: '/weekly-report', label: 'Weekly Report' },
   { href: '/contact', label: 'Contact' },
+
+export const weeklyReports = [
+  {
+    id: 'week-1',
+    date: 'June 30, 2026',
+    title: 'Market Recap — Week of June 30',
+    summary: "This week's market insights, trader highlights, and TX Agora updates.",
+    highlights: [
+      'Market insight placeholder — replace with real content',
+      'Trader highlight placeholder — replace with real content',
+      'TX Agora update placeholder — replace with real content',
+    ],
+  },
 ];
 
 export const stats = [
